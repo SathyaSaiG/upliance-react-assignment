@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upliance-react-assignment/static/css/main.8a2b1e9c.css",
+    "main.js": "/upliance-react-assignment/static/js/main.c7eaa66d.js",
+    "index.html": "/upliance-react-assignment/index.html",
+    "main.8a2b1e9c.css.map": "/upliance-react-assignment/static/css/main.8a2b1e9c.css.map",
+    "main.c7eaa66d.js.map": "/upliance-react-assignment/static/js/main.c7eaa66d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a2b1e9c.css",
+    "static/js/main.c7eaa66d.js"
+  ]
+}
